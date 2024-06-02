@@ -14,7 +14,9 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Run Semantic Release
+      - name: Action For Semantic Release
+        uses: cycjimmy/semantic-release-action@v4
+        
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npx semantic-release
+

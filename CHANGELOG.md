@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/devKirkCartano/release-demo/compare/v2.0.0...v2.1.0) (2024-06-02)
+
+
+### Features
+
+* changed the branch ([310dbc0](https://github.com/devKirkCartano/release-demo/commit/310dbc06f65a9d6d8ca1e7b3d4793720ca89b553))
+
 # [2.0.0](https://github.com/devKirkCartano/release-demo/compare/v1.2.0...v2.0.0) (2024-06-02)
 
 

@@ -1,3 +1,13 @@
+# [2.0.0](https://github.com/devKirkCartano/release-demo/compare/v1.2.0...v2.0.0) (2024-06-02)
+
+
+* feat!: add new function ([e8a4e4c](https://github.com/devKirkCartano/release-demo/commit/e8a4e4c62cb3aaca9a2a9b72952b702a0e00c034))
+
+
+### BREAKING CHANGES
+
+* The function is added
+
 # [1.2.0](https://github.com/devKirkCartano/release-demo/compare/v1.1.0...v1.2.0) (2024-06-02)
 
 

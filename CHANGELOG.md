@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/devKirkCartano/release-demo/compare/v1.1.0...v1.2.0) (2024-06-02)
+
+
+### Features
+
+* added dropdown functionality ([3cb0144](https://github.com/devKirkCartano/release-demo/commit/3cb01444d45ab065649fa7d5de97348eb5ad6e36))
+* added functionality ([dcec6d9](https://github.com/devKirkCartano/release-demo/commit/dcec6d91d4f6dc77eda6b018ade552298737b221))
+
 # [1.1.0](https://github.com/devKirkCartano/release-demo/compare/v1.0.1...v1.1.0) (2024-06-02)
 
 
